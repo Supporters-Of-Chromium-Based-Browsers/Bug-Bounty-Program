@@ -172,12 +172,6 @@ Awards cannot be assigned, transferred, redeemed for a different denomination, o
 Please follow the instructions below carefully. Failure to do so could result in disqualification or rejection of your Submission, late payment of award(s) or overlooked Submissions. Any questions regarding the SOCBB Bug Bounty Program should be directed to [bugbounty@socbb.org](mailto:bugbounty@socbb.org). 
 
 
-## How to submit a Bug Fix 
-
-
----
-
-
 ## Step 1 Fix the bug in Chromium
 
 [https://www.chromium.org/getting-involved/](https://www.chromium.org/getting-involved/) gives general advice on how to get started with Chromium development, and how to ask questions. If you’re stuck, you can also email [bugbounty@socbb.org](mailto:bugbounty@socbb.org) for help.
