@@ -90,7 +90,24 @@ Submissions must be reviewed and approved by at least 2 representatives from SOC
 
 The SOCBB Steering Committee reserves the right to make a holistic decision based on all factors. In an effort to help support the community, the SOCBB Steering Committee has  proactively identified some bugs as good candidates for this program, labeled by the minimum expected payment category. If the work has been deemed to be more than the initial assumption the steering committee may choose to increase the category but will not decrease it. 
 
-Payments will run through Github Sponsors
+
+
+
+# SOCBB Bug Bounty GitHub Submission Template
+
+Before reaching out, please ensure that your project has been fully tested, and released for at least 2 weeks in a stable version of a Chromium browser, as we do not review work that is still in progress. 
+
+When your work is ready, Please Submit your contribution in a new Issue on the [SOCBB Bug Bounty GitHub](https://github.com/Supporters-Of-Chromium-Based-Browsers/bug-bounty-program) and include the following information:
+
+
+* Bug Name and Description: Provide a brief overview (1 sentence) highlighting your project’s community usage and its significance within the broader Chromium ecosystem.
+* Link to the Chromium bug: Share links to your contributions that support your request. These contributions must be publicly accessible without requiring login or account creation.
+* GitHub Profile Link: Include a link to your GitHub profile.
+
+The more detailed and clear your submission, the faster and more efficiently SOCBB can process your request for Bug Bounty Program Award.
+
+
+## Payments will run through Github Sponsors
 
 All payments will be processed through GitHub Sponsors, so a GitHub account is required to receive a financial recognition. Please note that only individuals and organizations participating in the[ GitHub Sponsors](https://github.com/sponsors) Program are eligible for rewards.
 
