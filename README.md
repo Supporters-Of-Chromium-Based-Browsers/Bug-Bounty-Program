@@ -122,7 +122,7 @@ The following award amount applicable to a Large, Medium and Small award categor
 
 ## **Large $10,000**
 
-HOTLIST: [https://issues.chromium.org/hotlists/6639828](https://issues.chromium.org/hotlists/6639828) 
+HOTLIST: [https://issues.chromium.org/hotlists/6777190](https://issues.chromium.org/hotlists/6777190) 
 
 For items not found on the hotlist, a fix **may** be appropriate for the Large award Category, based on the following criteria:
 
@@ -137,7 +137,7 @@ For items not found on the hotlist, a fix **may** be appropriate for the Large a
 
 ## **Medium $1,000**
 
-HOTLIST: [https://issues.chromium.org/hotlists/6641288](https://issues.chromium.org/hotlists/6641288) 
+HOTLIST: [https://issues.chromium.org/hotlists/6779906](https://issues.chromium.org/hotlists/6779906) 
 
 For items not found on the hotlist, a fix **may** be appropriate for the Medium award Category, based on the following criteria:
 
@@ -153,7 +153,7 @@ To validate bugs not found on the Large or Medium hotlists please follow validat
 
 ## **Small $250**
 
-HOTLIST: [https://issues.chromium.org/hotlists/6641289](https://issues.chromium.org/hotlists/6641289) 
+HOTLIST: [https://issues.chromium.org/hotlists/6779907](https://issues.chromium.org/hotlists/6779907) 
 
 For items not found on the hotlist, a fix **may** be appropriate for the Small award Category, based on the following criteria:
 
@@ -189,7 +189,6 @@ You **<span style="text-decoration:underline;">Must</span>** include the followi
 
 * Bug Name and Description: Provide a brief overview (1 sentence) highlighting your project’s community usage and its significance within the broader Chromium ecosystem.
 * Link to the Chromium bug: Share links to your contributions that support your request. These contributions must be publicly accessible without requiring login or account creation.
-* GitHub Profile Link: Include a link to your GitHub profile.
 
 The more detailed and clear your submission, the faster and more efficiently SOCBB can process your request for Bug Bounty Program Award.
 
