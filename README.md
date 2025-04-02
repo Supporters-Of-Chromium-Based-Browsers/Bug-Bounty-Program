@@ -147,7 +147,7 @@ Please follow the instructions below carefully. Failure to do so could result in
 1. Find a Chromium issue (a.k.a. “bug”) through one of the pre-approved hotlists, and get the bug assigned to yourself (*). This is a signal that you are unblocked to start fixing the bug.
     * The available issues on any of the hotlists can be seen in [this dashboard](https://issues.chromium.org/dashboard/1072778)
     * The individual hotlists are: [BugBounty-Large ](https://issues.chromium.org/hotlists/6777190), [BugBounty-Medium](https://issues.chromium.org/hotlists/6779906), [BugBounty-Small](https://issues.chromium.org/hotlists/6779907)
-2. File a GitHub issue in our [bug bounty repo ](https://github.com/Supporters-Of-Chromium-Based-Browsers/Bug-Bounty-Program)tracking the Chromium bug. You mmust include the following:
+2. File a GitHub issue in our [bug bounty repo ](https://github.com/Supporters-Of-Chromium-Based-Browsers/Bug-Bounty-Program)tracking the Chromium bug. You must include the following:
     * Bug Name and Description: Provide a brief overview (1 sentence) highlighting your project’s community usage and its significance within the broader Chromium ecosystem.
     * Link to the Chromium bug. (Note: contributions must be publicly accessible without requiring login or account creation.)
 3. Comment on the Chromium bug linking to the GitHub issue (this is used to verify that the same person owns both).
