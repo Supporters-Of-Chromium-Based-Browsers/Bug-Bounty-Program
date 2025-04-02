@@ -12,9 +12,6 @@ The Program begins on or about 12:00 am PT on or about April 1, 2025 and will en
 ## Goals
 
 
----
-
-
 
 * Incentivize and enable external developers to fix bugs that measurably improve Chromium’s quality for web developers and users.
 * Allow freedom to external developers to choose their bugs and find bugs to fix that matter to them, & demonstrate the impact of their work to us.
@@ -23,8 +20,7 @@ The Program begins on or about 12:00 am PT on or about April 1, 2025 and will en
 
 ## Issues in scope
 
-
----
+***Note: at this time, only issues on one of the approved hotlists for Large, Medium and Small are eligible for the bug bounty program. We may relax this condition in the future.***
 
 Any open Chromium [issue](https://issues.chromium.org) that:
 
@@ -77,10 +73,10 @@ These are not in scope because they don’t represent direct improvement to Chro
 If you have questions regarding the Program’s Scope, please contact [bugbounty@socbb.org](mailto:bugbounty@socbb.org).
 
 
-## Submissions
-
-
 ---
+
+
+# Submissions
 
 Submissions must be submitted by an eligible Participant, compliant with these Terms, and reviewed and approved by at least 2 representatives from SOCBB or their member companies to be considered for participation in the Program and potential award. Inputs to the decision include the following:
 
@@ -96,26 +92,23 @@ Submissions must be submitted by an eligible Participant, compliant with these T
 * Any new bugs filed as being caused by the fix within this period must also be fixed (and are not independently eligible for payment).
 * Fixes must not reintroduce previously fixed bugs (e.g. cannot simply revert a prior bugfix which also caused a regression).
 * Participants represent and warrant that they will behave according to the [Chromium Code of Conduct](https://chromium.googlesource.com/chromium/src/+/main/CODE_OF_CONDUCT.md#:~:text=Be%20respectful%20and%20constructive.,condescension%2C%20whether%20blatant%20or%20subtle.). Violations may lead to permanent disqualification from this Program.
-* Fixes need to be fully reviewed and approved by relevant code OWNERS. Chromium has a high-bar for code quality and as code architecture. Code OWNERS and other project members are available to guide new contributors, but will not do the work for them. If a submitted fix is judged by reviewers to be substantially below the Program’s bar for code quality (such as by requiring significant and repeated rounds of code review feedback atypical even for new project contributors), it will be disqualified and ineligible for award.  
+* Fixes need to be fully reviewed and approved by relevant code OWNERS. Chromium has a high-bar for code quality and has complex code architecture. Code OWNERS and other project members are available to guide new contributors, but will not do the work for them. If a submitted fix is judged by reviewers to be substantially below the Program’s bar for code quality (such as by requiring significant and repeated rounds of code review feedback atypical even for new project contributors), it will be disqualified and ineligible for award.  
 * If regular progress is not made towards fixing a bug (e.g. no update in a week), it may be unassigned in order to be reassigned to someone else. In rare cases of urgent bugs (those marked Pri0 or Release blocking), proposed fixes may be required much faster to avoid reassignment. 
 
 The SOCBB Steering Committee reserves the right to make decisions based on all relevant factors in its sole and absolute discretion. In an effort to help support the community, the SOCBB Steering Committee has proactively identified some bugs as good candidates for this Program, labeled as Hotlist in each of the award Categories. The award Categories also include bug fixes that may not be listed on the applicable Hotlist. 
 
 
-## Payments will run through GitHub Sponsors
-
-
----
+# Payments will run through GitHub Sponsors
 
 All payments will be processed through GitHub Sponsors, so a GitHub account is required to receive an award. Please note that only eligible Participants who are individuals participating in the[ GitHub Sponsors](https://github.com/sponsors) program may be eligible for an award.
 
 We will attempt to review Submissions and provide a response by the 15th of the month following your Submission. If the Submission is eligible to receive one, an award will generally be issued in the first week of the month following Submission approval.
 
 
-## Awards & Judging Criteria 
-
-
 ---
+
+
+# Awards & Judging Criteria 
 
 The following award amount applicable to a Large, Medium and Small award category (“Category”) is anticipated to be available per confirmed and accepted bug fix that meets the Program requirements. Eligible Submissions will be judged in accordance with the below Judging Criteria for the appropriate Category as determined by SOCBB and as stated below: 
 
@@ -124,42 +117,15 @@ The following award amount applicable to a Large, Medium and Small award categor
 
 HOTLIST: [https://issues.chromium.org/hotlists/6777190](https://issues.chromium.org/hotlists/6777190) 
 
-For items not found on the hotlist, a fix **may** be appropriate for the Large award Category, based on the following criteria:
-
-
-
-* Is a top issue for many web developers or users, (eg. has a high star count);
-* Evidence that the bug significantly affects more than **1%** of the users of a Chromium-based browser;
-* Affects Interop 202x score by more than **0.1%**;
-* Improves competitive performance score by more than **0.5%**, or a Core Web Vital by more than **0.5%**; or
-* It had most of one of the above factors, and inherent difficulty of fixing the issue is high or the fix solved a systemic code quality problem beyond the scope of the bug in question.
-
 
 ## **Medium $1,000**
 
 HOTLIST: [https://issues.chromium.org/hotlists/6779906](https://issues.chromium.org/hotlists/6779906) 
 
-For items not found on the hotlist, a fix **may** be appropriate for the Medium award Category, based on the following criteria:
-
-
-
-* Impacts many web developers or users;
-* Evidence that the bug significantly affects more than **0.1%** of the users of a Chromium-based browser;
-* Affects Interop 202x score; or
-* Improves competitive performance score by more than **0.1%**, or a Core Web Vital by more than **0.1%**.
-
-To validate bugs not found on the Large or Medium hotlists please follow validation instructions on our GitHub.
-
 
 ## **Small $250**
 
 HOTLIST: [https://issues.chromium.org/hotlists/6779907](https://issues.chromium.org/hotlists/6779907) 
-
-For items not found on the hotlist, a fix **may** be appropriate for the Small award Category, based on the following criteria:
-
-
-
-* It’s a real user or developer bug. 
 
 Awards cannot be assigned, transferred, redeemed for a different denomination, or substituted, in whole or in part, except by Linux Foundation. Limit one (1) award per confirmed bug fix, as determined by Program Host and the SOCBB Steering Committee, regardless of the number of eligible Submissions received for the applicable bug and the number of individuals involved in the development of the bug fix and Submission.
 
@@ -171,28 +137,29 @@ Awards cannot be assigned, transferred, redeemed for a different denomination, o
 
 Please follow the instructions below carefully. Failure to do so could result in disqualification or rejection of your Submission, late payment of award(s) or overlooked Submissions. Any questions regarding the SOCBB Bug Bounty Program should be directed to [bugbounty@socbb.org](mailto:bugbounty@socbb.org). 
 
-
-## Step 1 Fix the bug in Chromium
-
 [https://www.chromium.org/getting-involved/](https://www.chromium.org/getting-involved/) gives general advice on how to get started with Chromium development, and how to ask questions. If you’re stuck, you can also email [bugbounty@socbb.org](mailto:bugbounty@socbb.org) for help.
 
 
-## Step 2 Submit your Award request in GitHub during the Program Period
-
-Before reaching out, please ensure that your project has been fully tested, and released for at least 2 weeks in a stable version of a Chromium browser, as we do not review work that is still in progress. 
-
-When your work is ready, Please Submit your contribution in a new Issue on the [SOCBB Bug Bounty GitHub](https://github.com/Supporters-Of-Chromium-Based-Browsers/Foundation) and include the following information:
-
-You **<span style="text-decoration:underline;">Must</span>** include the following:
+## How to Submit
 
 
 
-* Bug Name and Description: Provide a brief overview (1 sentence) highlighting your project’s community usage and its significance within the broader Chromium ecosystem.
-* Link to the Chromium bug: Share links to your contributions that support your request. These contributions must be publicly accessible without requiring login or account creation.
+1. Find a Chromium issue (a.k.a. “bug”) through one of the pre-approved hotlists, and get the bug assigned to yourself (*). This is a signal that you are unblocked to start fixing the bug.
+    * The available issues on any of the hotlists can be seen in [this dashboard](https://issues.chromium.org/dashboard/1072778)
+    * The individual hotlists are: [BugBounty-Large ](https://issues.chromium.org/hotlists/6777190), [BugBounty-Medium:](https://issues.chromium.org/hotlists/6779906), [BugBounty-Small:](https://issues.chromium.org/hotlists/6779907)
+2. File a GitHub issue in our [bug bounty repo ](https://github.com/Supporters-Of-Chromium-Based-Browsers/Bug-Bounty-Program)tracking the Chromium bug. You mmust include the following:
+    * Bug Name and Description: Provide a brief overview (1 sentence) highlighting your project’s community usage and its significance within the broader Chromium ecosystem.
+    * Link to the Chromium bug. (Note: contributions must be publicly accessible without requiring login or account creation.)
+3. Comment on the Chromium bug linking to the GitHub issue (this is used to verify that the same person owns both).
+4. Fix the bug. Please make sure that you follow all steps detailed earlier, including ensuring that your fix has been fully tested, released for at least 2 weeks in a stable version of a Chromium browser, and no regression issues have been filed, as we do not review work that is still in progress.
+5. Add a label or comment to the GitHub issue indicating that you believe all conditions have been met and you are eligible for payment.
 
-The more detailed and clear your submission, the faster and more efficiently SOCBB can process your request for Bug Bounty Program Award.
+(*) This could be by commenting on the bug asking to own it, or via email with the code owners if you know their email. If you have commented or emailed and have not heard back in more than a week, you may email [bugbounty@socbb.org](mailto:bugbounty@socbb.org) for assistance.
 
-Please be detailed and clear in your Submission. Participants assume all risk of ineligible, damaged, lost, late, incomplete, invalid, incorrect, incompatible, non-functioning, or misdirected Submissions, in whole or in part. PROGRAM HOST MAKES NO WARANTY, REPRESENTATION OR GUARANTEE, EXPRESS OR IMPLIED, IN CONNECTION WITH THEIR ABILITY TO IN ANY WAY ENABLE, DEVELOP, MARKET OR PROMOTE THE PARTICIPANT, THEIR FIX, OR THEIR SUBMISSION, IN WHOLE OR IN PART. Participants may provide as many Submissions as they wish, but each must provide a fix for a different bug or provide a distinctly different fix if submitted for the same bug.  
+Please be detailed and clear in your Submission. Participants assume all risk of ineligible, damaged, lost, late, incomplete, invalid, incorrect, incompatible, non-functioning, or misdirected Submissions, in whole or in part. PROGRAM HOST MAKES NO WARRANTY, REPRESENTATION OR GUARANTEE, EXPRESS OR IMPLIED, IN CONNECTION WITH THEIR ABILITY TO IN ANY WAY ENABLE, DEVELOP, MARKET OR PROMOTE THE PARTICIPANT, THEIR FIX, OR THEIR SUBMISSION, IN WHOLE OR IN PART. Participants may provide as many Submissions as they wish, but each must provide a fix for a different bug or provide a distinctly different fix if submitted for the same bug.  
+
+
+---
 
 
 # Terms and Conditions
@@ -256,6 +223,3 @@ Providing a Submission(s) does not evidence receipt, eligibility for the Program
     * A: Unfortunately we can't guarantee any particular category until the bug fix is complete, but you can email us at [bugbounty@socbb.org](mailto:bugbounty@socbb.org) for advice.
 
 	
-
-
----
