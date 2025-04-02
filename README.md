@@ -88,7 +88,7 @@ Submissions must be submitted by an eligible Participant, compliant with these T
     * Skia
     * Devtools-frontend
     * WebRTC.
-* bug fixes must make it to the stable channel of a major Chromium browser (e.g. Chrome and Edge) and stay there for at least 2 weeks without being reverted or otherwise disabled.
+* Bug fixes must make it to the stable channel of a major Chromium browser (e.g. Chrome and Edge) and stay there for at least 2 weeks without being reverted or otherwise disabled.
 * Any new bugs filed as being caused by the fix within this period must also be fixed (and are not independently eligible for payment).
 * Fixes must not reintroduce previously fixed bugs (e.g. cannot simply revert a prior bugfix which also caused a regression).
 * Participants represent and warrant that they will behave according to the [Chromium Code of Conduct](https://chromium.googlesource.com/chromium/src/+/main/CODE_OF_CONDUCT.md#:~:text=Be%20respectful%20and%20constructive.,condescension%2C%20whether%20blatant%20or%20subtle.). Violations may lead to permanent disqualification from this Program.
