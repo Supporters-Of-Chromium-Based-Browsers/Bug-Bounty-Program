@@ -83,11 +83,11 @@ Submissions must be submitted by an eligible Participant, compliant with these T
 
 
 * Code and test must be done in one of the main line Chromium repositories including:
-    * Chromium
-    * V8
-    * Skia
-    * Devtools-frontend
-    * WebRTC.
+    * chromium
+    * v8
+    * skia
+    * devtools-frontend
+    * webrtc
 * Bug fixes must make it to the stable channel of a major Chromium browser (e.g. Chrome and Edge) and stay there for at least 2 weeks without being reverted or otherwise disabled.
 * Any new bugs filed as being caused by the fix within this period must also be fixed (and are not independently eligible for payment).
 * Fixes must not reintroduce previously fixed bugs (e.g. cannot simply revert a prior bugfix which also caused a regression).
