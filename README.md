@@ -2,7 +2,7 @@
 
 # Chromium Bug Bounty Pilot Program
 
-This Chromium Bug Bounty Pilot Program is a skill based trade promotion (“Program”) offered by The Linux Foundation (“Program Host”) in connection with its hosting and support of the [Supporters of Chromium-Based Browsers](https://www.linuxfoundation.org/supporters-of-chromium-based-browsers) initiative (“SOCBB”), to provide monetary awards (“awards”) for eligible Submissions that fix open Chromium issues that are **user-facing or developer-facing browser bugs**. Whether a Submission qualifies for an award in a particular Category will be assessed by the SOCBB Steering Committee based on the judging criteria stated herein and scaled to the importance of the bug, similar to how the [Chrome Vulnerability Reward Program](https://bughunters.google.com/about/rules/chrome-friends/5745167867576320/chrome-vulnerability-reward-program-rules) works. The total Program award budget is currently anticipated to be capped at USD$300,000 (“Budget”); the Budget or parts thereof may be unawarded or decreased, as provided herein, or may be increased, each in Program Host’s discretion. 
+This Chromium Bug Bounty Pilot Program is a skill based trade promotion (“Program”) offered by The Linux Foundation (“Program Host”) in connection with its hosting and support of the [Supporters of Chromium-Based Browsers](https://www.linuxfoundation.org/supporters-of-chromium-based-browsers) initiative (“SOCBB”), to provide monetary awards (“awards”) for eligible Submissions that fix open Chromium issues that are **user-facing or developer-facing browser bugs**. Whether a Submission qualifies for an award in a particular Category will be assessed by the SOCBB Steering Committee and scaled to the importance of the bug, similar to how the [Chrome Vulnerability Reward Program](https://bughunters.google.com/about/rules/chrome-friends/5745167867576320/chrome-vulnerability-reward-program-rules) works. The total Program award budget is currently anticipated to be capped at USD$300,000 (“Budget”); the Budget or parts thereof may be unawarded or decreased, as provided herein, or may be increased, each in Program Host’s discretion. 
 
 The Program begins on or about 12:00 am PT on or about April 1, 2025 and will end 11:59 pm PT on September 30, 2025, unless earlier terminated (due to for example reaching the total Budget amount, or exigent circumstances, such as impossibility, frustration or force majeure event), or may but without obligation be extended (because insufficient eligible Submissions are received for example) (“Program Period”). Program Host reserves the right, without notice or prior approval, to extend, postpone, cancel or terminate the Program and any element thereof in whole or in part and/or to modify or supersede these Terms in its sole absolute discretion; any revised Terms will continue to govern all participation and aspects of the Program. 
 
@@ -108,9 +108,9 @@ We will attempt to review Submissions and provide a response by the 15th of the 
 ---
 
 
-# Awards & Judging Criteria 
+# Awards
 
-The following award amount applicable to a Large, Medium and Small award category (“Category”) is anticipated to be available per confirmed and accepted bug fix that meets the Program requirements. Eligible Submissions will be judged in accordance with the below Judging Criteria for the appropriate Category as determined by SOCBB and as stated below: 
+The following award amount applicable to a Large, Medium and Small award category (“Category”) is anticipated to be available per confirmed and accepted bug fix that meets the Program requirements. Eligible Submissions will be judged in accordance with judging criteria as determined by SOCBB. 
 
 
 ## **Large $10,000**
