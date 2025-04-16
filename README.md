@@ -113,17 +113,17 @@ We will attempt to review Submissions and provide a response by the 15th of the 
 The following award amount applicable to a Large, Medium and Small award category (“Category”) is anticipated to be available per confirmed and accepted bug fix that meets the Program requirements. Eligible Submissions will be judged in accordance with judging criteria as determined by SOCBB. 
 
 
-## **Large $10,000**
+## **Large $20,000**
 
 HOTLIST: [https://issues.chromium.org/hotlists/6777190](https://issues.chromium.org/hotlists/6777190) 
 
 
-## **Medium $1,000**
+## **Medium $5,000**
 
 HOTLIST: [https://issues.chromium.org/hotlists/6779906](https://issues.chromium.org/hotlists/6779906) 
 
 
-## **Small $250**
+## **Small $1,000**
 
 HOTLIST: [https://issues.chromium.org/hotlists/6779907](https://issues.chromium.org/hotlists/6779907) 
 
