@@ -110,7 +110,7 @@ We will attempt to review Submissions and provide a response by the 15th of the 
 
 # Awards
 
-The following award amount applicable to a Large, Medium and Small award category (“Category”) is anticipated to be available per confirmed and accepted bug fix that meets the Program requirements. Eligible Submissions will be judged in accordance with judging criteria as determined by SOCBB. 
+The following US Dollar award amount applicable to a Large, Medium and Small award category (“Category”) is anticipated to be available per confirmed and accepted bug fix that meets the Program requirements. Eligible Submissions will be judged in accordance with judging criteria as determined by SOCBB. 
 
 
 ## **Large $20,000**
