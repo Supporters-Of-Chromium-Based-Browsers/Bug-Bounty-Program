@@ -216,7 +216,7 @@ Providing a Submission(s) does not evidence receipt, eligibility for the Program
 * Q: How do I get access to edit bugs, commit code or access the Chromium Slack channels?
     * A: See [here](https://www.chromium.org/getting-involved/become-a-committer/) for more information.
 * Q: How do I get access to faster builds?
-    * A: See [here](https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md#use-reclient).
+    * A: See [here](https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md#Faster-builds).
 * Q: How can I know how what category my bug will end up in?
     * A: Unfortunately we can't guarantee any particular category until the bug fix is complete, but you can email us at [bugbounty@socbb.org](mailto:bugbounty@socbb.org) for advice.
 
