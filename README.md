@@ -1,6 +1,6 @@
 
 
-# Chromium Bug Bounty Pilot Program
+# Chromium Bug Bounty Program
 
 This Chromium Bug Bounty Pilot Program is a skill based trade promotion (“Program”) offered by The Linux Foundation (“Program Host”) in connection with its hosting and support of the [Supporters of Chromium-Based Browsers](https://www.linuxfoundation.org/supporters-of-chromium-based-browsers) initiative (“SOCBB”), to provide monetary awards (“awards”) for eligible Submissions that fix open Chromium issues that are **user-facing or developer-facing browser bugs**. Whether a Submission qualifies for an award in a particular Category will be assessed by the SOCBB Steering Committee and scaled to the importance of the bug, similar to how the [Chrome Vulnerability Reward Program](https://bughunters.google.com/about/rules/chrome-friends/5745167867576320/chrome-vulnerability-reward-program-rules) works. The total Program award budget is currently anticipated to be capped at USD$300,000 (“Budget”); the Budget or parts thereof may be unawarded or decreased, as provided herein, or may be increased, each in Program Host’s discretion. 
 
