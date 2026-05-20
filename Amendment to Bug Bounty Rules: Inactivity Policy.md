@@ -7,7 +7,7 @@
 
 ### **Overview**
 
-To ensure the fairness and health of the Bug Bounty program, the Steering Committee has moved to address "issue hoarding"—where bugs are assigned to a contributor but remain stagnant for extended periods. This amendment shifts the program from a passive "one-week" suggestion to a proactive two-week inactivity removal policy, synchronized with the monthly review cycle.
+To ensure the fairness and health of the Bug Bounty program, the Steering Committee has moved to has moved to address the potential for 'issue hoarding' —where bugs are assigned to a contributor but remain stagnant for extended periods. This amendment shifts the program from a passive "one-week" suggestion to a proactive two-week inactivity removal policy, synchronized with the monthly review cycle.
 
 
 ---
