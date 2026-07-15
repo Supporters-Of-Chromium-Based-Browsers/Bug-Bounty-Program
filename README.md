@@ -39,7 +39,7 @@ Any open Chromium [issue](https://issues.chromium.org) that:
 * A bug causing a substantial number of Chromium crashes
 * A user-visible Chromium UI error
 * A performance improvement that is measurable on a [recognized competitive benchmark](https://browserbench.org/), or via A/B experiments on one or more Chromium-based browsers on a [Core Web Vital](https://web.dev/articles/vitals#core-web-vitals) (and does not also regress any other of these measures)
-* Adding support for a web platform feature already that has an accepted standard and has already shipped in another browser (the same exception [enumerated here](https://www.chromium.org/blink/launching-features/wide-review/#exceptions))
+* Adding support for a web platform feature already that has an accepted standard and has already shipped in another browser (the same exception [enumerated here](https://www.chromium.org/blink/launching-features/wide-review/#exceptions)), or has been approved for inclusion in the [Interop project](https://github.com/web-platform-tests/interop)
 
 
 ## Examples not in scope
